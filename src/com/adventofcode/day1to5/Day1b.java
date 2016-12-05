@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.adventofcode.utilities.FileAccess;
+import com.adventofcode.utilities.Pair;
 
 public class Day1b {
 

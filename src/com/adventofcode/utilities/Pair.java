@@ -1,4 +1,4 @@
-package com.adventofcode.day1to5;
+package com.adventofcode.utilities;
 
 public class Pair {
 
